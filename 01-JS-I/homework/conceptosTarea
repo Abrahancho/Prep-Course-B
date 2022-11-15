@@ -1,0 +1,10 @@
+
+//Variables = Es información donde guardamos información como un valor y lo creamos con la palabra var, por ejemplo  var = "azucar"
+//Strings = Son espacios también donde ponemos textos siempre entre comillas, por ejemplo "Hola Mundo"; "3 lts de tierra"; o simplemente un número: "1";
+//Booleans = En el lenguaje Javascript es un dato que solo puede valer como "True" o "False": var loLograré = True; , var cerdosVuelan = False;
+//Undefined = Es una variable que simplemente no existe.
+//Null = es un valor que no no le hemos dado una identidad o esperamos darsela luego.
+//Operadores = son los símbolos matemáticos que ya conocemos como + (suma), - (resta), * (multiplicación), / (división) y mas...
+//'==' es un operador que compara solo elementos de la información pero no su tipo, puede comparar (4 == "4" = true)
+    //porque solo comparo los elementos que son númericos, pero no el tipo que en el primer '4' es numérico sí,
+    //pero en el segundo "4" es un string recordemos. En cambio (4 === "4" = false) el operador '===' nos da 'false' porque compara todo como elemento y tipo.
